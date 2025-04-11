@@ -4,6 +4,11 @@ This project was made with NextJS15, DNDKit, ShadCN
 
 - users can drag and drop components and edit properties.
 
+## REQUIREMENTS
+
+- nodejs
+- npm
+
 ## INSTALL DEPENDENCIES
 
 npm install --force
